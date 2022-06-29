@@ -138,7 +138,7 @@ For example,
 
 In this example, try installing the infoctrs.ini from each folder using:
 
-`Lodtr infoctrs.ini`
+`Lodctr infoctrs.ini`
 
 When it's successful, you'll see the following entry in the application log:
 
